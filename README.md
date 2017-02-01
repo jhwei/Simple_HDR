@@ -1,4 +1,4 @@
-This is the readme file for project folder for Project 1 of CMPE364 2016 fall
+#Simple HDR System#
 
 The project is HDR system
 
