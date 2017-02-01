@@ -1,7 +1,0 @@
-0.6169
-0.6217
-0.6206
-Street_3.jpg 50
-Street_2.jpg 100
-Street_1.jpg 250
-
